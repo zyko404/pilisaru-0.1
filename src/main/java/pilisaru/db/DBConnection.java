@@ -20,7 +20,7 @@ public class DBConnection {
         //Class.forName("com.mysql.cj.jdbc.Driver");
         connection= DriverManager.getConnection(URL, props);
     }
-
+//singleton
     public static DBConnection getInstance() throws SQLException {
         return dbConnection == null ? dbConnection = new DBConnection() : dbConnection;
     }
