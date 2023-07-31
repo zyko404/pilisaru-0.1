@@ -17,7 +17,7 @@ public class AddEmployeeController {
     private TextField txtEmpAddress;
     @FXML
     private Button btnAdd;
-
+//add employee done
     public void btnAddOnAction(ActionEvent event) {
         String nic=txtEmpNic.getText();
         String name = txtEmpName.getText();
