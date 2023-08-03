@@ -18,6 +18,5 @@ public class Main extends Application {
         stage.centerOnScreen();
         stage.show();
     }
-    void test(){}
-    //test
+   
 }
