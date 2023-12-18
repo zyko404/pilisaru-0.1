@@ -1,48 +1,29 @@
 # Pilisaru Project
 
+![Pilisaru Logo](path/to/your/logo.png)
+
 ## Overview
 
-Pilisaru is an innovative software solution developed by the talented team from IJSE for the Inovesta event. This project, which won the prestigious Team Spirit Award, addresses the critical issue of garbage management. The software aims to eliminate mountains of garbage through its advanced features and thoughtful design.
+Pilisaru is an innovative garbage management software developed by the talented team from the Institute of IJSE. The project received the esteemed Team Spirit Award at the Inovesta event, showcasing its commitment to collaborative problem-solving and innovation.
 
-## Features
+## About Inovesta
 
-- **Garbage Management**: Pilisaru provides an efficient and user-friendly platform for managing garbage, offering solutions to streamline waste disposal processes.
+Inovesta is an annual event organized by IJSE, providing a platform for students to showcase their creativity and technical skills. Pilisaru stood out among the submissions, demonstrating its effectiveness in addressing the challenge of managing mountains of garbage.
 
-- **Inovesta Recognition**: The project received acclaim at the Inovesta event, winning the Team Spirit Award. This recognition underscores the collaborative and innovative efforts of the development team.
+## Key Features
 
-## Solutions
+- **Efficient Garbage Management**: Pilisaru offers a comprehensive solution to efficiently manage and reduce the impact of waste in our surroundings.
 
-Pilisaru offers robust solutions to tackle the challenges associated with waste management:
+- **User-Friendly Interface**: The software is designed with a user-friendly interface, making it accessible to a wide range of users for seamless garbage management.
 
-1. **Smart Waste Disposal**: The software introduces smart waste disposal mechanisms, optimizing the collection and disposal of garbage.
+- **Inovative Solutions**: Pilisaru introduces innovative approaches to eliminate the mountains of garbage, contributing to a cleaner and more sustainable environment.
 
-2. **Data-Driven Insights**: Pilisaru leverages data analytics to provide insights into garbage generation patterns, enabling informed decision-making for waste management strategies.
+## Solutions Provided
 
-3. **User-Friendly Interface**: The intuitive user interface ensures easy navigation and accessibility, encouraging widespread adoption of responsible waste disposal practices.
+The Pilisaru project proposes the following solutions to address the challenges of waste management:
 
-## Getting Started
+1. **Automated Waste Collection**: Pilisaru automates the waste collection process, optimizing routes and schedules for more efficient garbage pickup.
 
-To get started with Pilisaru, follow these steps:
+2. **Data-Driven Insights**: The software utilizes data analytics to provide insights into garbage generation patterns, facilitating informed decision-making for waste management strategies.
 
-1. **Installation**: Clone the repository to your local machine.
-
-     ```bash
-    git clone https://github.com/zyko404/pilisaru.git
-    ```
-2. **Dependencies**: Install the necessary dependencies.
-
-   ```bash
-    npm install
-    ```
-3. **Configuration**: Customize the configuration files to suit your institute's requirements.
-
-
-4. **Run the Application**: Launch the Pilisaru software.
-
-   ```bash
-    npm start
-    ```
-   
-
-
-
+3. **Community Engagement**: Pilisaru encourages community participation through its intuitive platform, fostering a sense of responsibility towards waste disposal.
