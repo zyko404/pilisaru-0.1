@@ -1,7 +1,5 @@
 # Pilisaru Project
 
-![Pilisaru Logo](path/to/your/logo.png)
-
 ## Overview
 
 Pilisaru is an innovative garbage management software developed by the talented team from the Institute of IJSE. The project received the esteemed Team Spirit Award at the Inovesta event, showcasing its commitment to collaborative problem-solving and innovation.
